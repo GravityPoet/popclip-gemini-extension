@@ -15,7 +15,7 @@
 
 1. 下载并安装 `Gemini.popclipextz`。
 2. 在任意应用中划词，点击 Gemini 图标。
-3. 自动打开 `https://gemini.google.com/app`。
+3. 自动打开 `https://gemini.google.com/u/1/app`。
 4. 自动粘贴以下模板到输入框：
 
 ```text

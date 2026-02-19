@@ -6,7 +6,7 @@ Open Gemini and auto-paste a prefilled template from selected text.
 
 1. Select text in any app.
 2. Click the Gemini icon in PopClip.
-3. Gemini opens at `https://gemini.google.com/app`.
+3. Gemini opens at `https://gemini.google.com/u/1/app`.
 4. The extension auto-pastes:
 
 ```text
