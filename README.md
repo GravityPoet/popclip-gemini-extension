@@ -1,13 +1,13 @@
 # Gemini PopClip Extension
 
-无弹窗版本：划词后点击图标，直接跳转 Gemini，并把模板复制到剪贴板。
+本版本已验证成功：划词后点击图标，自动打开 Gemini，并自动粘贴模板。
 
 ## 用法
 
 1. 下载并安装 `Gemini.popclipextz`。
 2. 在任意应用中划词，点击 Gemini 图标。
-3. 自动打开 Gemini 网页：`https://gemini.google.com/app`。
-4. 粘贴后使用以下模板提问：
+3. 自动打开 `https://gemini.google.com/app`。
+4. 自动粘贴以下模板到输入框：
 
 ```text
 【原文】
@@ -16,13 +16,14 @@
 【问题】
 ```
 
-5. 在 `【问题】` 下自行输入，再发送。
+5. 在 `【问题】` 下输入你的问题并发送。
 
 ## 行为说明
 
 - 不弹输入框。
 - 不自动发送。
-- 同时复制模板到剪贴板作为兜底。
+- 自动粘贴依赖 macOS 辅助功能权限（PopClip）。
+- 若自动粘贴失败，模板已在剪贴板中，可手动 `Command+V`。
 - 在 PopClip 设置窗口中禁用触发（`excludedApps`）。
 
 ## 下载

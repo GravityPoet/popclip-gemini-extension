@@ -1,7 +1,7 @@
 {
   "name": "Gemini",
   "identifier": "com.gravitypoet.popclip.extension.gemini",
-  "description": "Open Gemini and copy a prefilled template from selected text.",
+  "description": "Open Gemini and auto-paste a prefilled template from selected text.",
   "icon": "gemini.png",
   "title": "\u200B",
   "popclipVersion": 4586,
