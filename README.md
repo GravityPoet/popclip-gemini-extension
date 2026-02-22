@@ -1,3 +1,15 @@
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://zdoc.app/de/GravityPoet/popclip-gemini-extension) | 
+[English](https://zdoc.app/en/GravityPoet/popclip-gemini-extension) | 
+[Español](https://zdoc.app/es/GravityPoet/popclip-gemini-extension) | 
+[français](https://zdoc.app/fr/GravityPoet/popclip-gemini-extension) | 
+[日本語](https://zdoc.app/ja/GravityPoet/popclip-gemini-extension) | 
+[한국어](https://zdoc.app/ko/GravityPoet/popclip-gemini-extension) | 
+[Português](https://zdoc.app/pt/GravityPoet/popclip-gemini-extension) | 
+[Русский](https://zdoc.app/ru/GravityPoet/popclip-gemini-extension) | 
+[中文](https://zdoc.app/zh/GravityPoet/popclip-gemini-extension)
+
+
 # Gemini PopClip Extension
 
 本版本已验证成功：划词后点击图标，自动打开 Gemini，并自动粘贴模板。
